@@ -14,10 +14,6 @@ This project is designed to give parents peace of mind by helping children use s
   → The phone **automatically locks**  
   → This is designed to **limit phone use before bedtime**
 
-### 3. 📞 Emergency Use Exception  
-- During walking, if there's an **unavoidable reason** (e.g. incoming call),  
-  → Only the character is displayed, allowing the phone to be used temporarily
-
 ## ⚙️ Tech Stack
 
 - **Programming Language**: Java
@@ -53,12 +49,5 @@ Due to changes in Android's security model, **the app may not work on devices wi
 - Night mode scheduling  
 - Better power management  
 
-## 🧑‍💻 Authors
 
-- Developed by: [Your Name or Team Name]  
-- Contact: [Your Email or GitHub Profile Link]
-
----
-
-Feel free to contribute, fork, or customize this project!
 
